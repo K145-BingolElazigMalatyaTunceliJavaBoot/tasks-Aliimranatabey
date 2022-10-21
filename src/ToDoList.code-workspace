@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ToDoList",
+			"path": ".."
+		},
+		{
+			"name": ".vscode",
+			"path": "../../../YedeklenenVeriler/VsCode/school/.vscode"
+		}
+	],
+	"settings": {}
+}
