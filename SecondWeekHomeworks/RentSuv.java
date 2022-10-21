@@ -9,7 +9,6 @@ public class RentSuv extends Car implements RentCar {
     @Override
     public void companyRent() {
         System.out.println("Şirkete Kiraladiniz ! ");
-
     }
 
     @Override
